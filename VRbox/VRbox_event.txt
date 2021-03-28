@@ -1,0 +1,4 @@
+/dev/input/event7 VR BOX      Keyboard DC:A6:32:94:2E:A9
+/dev/input/event6 VR BOX      Mouse DC:A6:32:94:2E:A9
+/dev/input/event5 VR BOX      DC:A6:32:94:2E:A9
+/dev/input/event4 VR BOX      Consumer Control DC:A6:32:94:2E:A9
